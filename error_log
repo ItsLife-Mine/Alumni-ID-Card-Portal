@@ -1,0 +1,12 @@
+[16-Feb-2020 14:10:37 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/grabogec/public_html/pgddsai/admin/dbconfig.php on line 42
+[16-Feb-2020 14:12:31 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/grabogec/public_html/pgddsai/admin/dbconfig.php on line 42
+[16-Feb-2020 14:12:34 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/grabogec/public_html/pgddsai/admin/dbconfig.php on line 42
+[16-Feb-2020 14:12:37 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/grabogec/public_html/pgddsai/admin/dbconfig.php on line 42
+[16-Feb-2020 14:12:37 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/grabogec/public_html/pgddsai/admin/class.admin.php on line 56
+[16-Feb-2020 14:12:39 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/grabogec/public_html/pgddsai/admin/dbconfig.php on line 42
+[16-Feb-2020 14:15:26 Etc/GMT] PHP Notice:  Undefined index: adID in /home/grabogec/public_html/pgddsai/admin/logout.php on line 8
+[16-Feb-2020 14:44:24 Etc/GMT] PHP Notice:  Undefined index: adID in /home/grabogec/public_html/pgddsai/admin/logout.php on line 8
+[16-Feb-2020 14:50:54 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/grabogec/public_html/pgddsai/admin/lib/page-top.php on line 211
+[16-Feb-2020 14:52:09 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/grabogec/public_html/pgddsai/admin/lib/page-top.php on line 211
+[16-Feb-2020 14:52:12 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/grabogec/public_html/pgddsai/admin/lib/page-top.php on line 211
+[17-Feb-2020 18:24:29 Etc/GMT] PHP Notice:  Undefined index: adID in /home/grabogec/public_html/pgddsai/admin/logout.php on line 8
